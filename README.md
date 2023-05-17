@@ -1,0 +1,1 @@
+# Ml-project-to-analyse-customer-pattern
